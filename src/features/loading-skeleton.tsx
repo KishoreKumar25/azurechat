@@ -6,7 +6,7 @@ export const LoadingSkeleton = () => {
         width={80}
         height={80}
         alt=""
-        src="/ai-icon.png"
+        src="/Haier_Icon.png"
         quality={100}
         className="animate-bounce"
       />
